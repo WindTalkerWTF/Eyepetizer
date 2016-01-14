@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8195" systemVersion="14F27" minimumToolsVersion="Xcode 7.0">
+    <entity name="Video" syncable="YES">
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="consumption" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="coverBlurred" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coverForDetail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coverForFeed" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coverForSharing" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="duration" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idx" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="playInfo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="playUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="provider" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="rawWebUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="videoDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="videoID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="webUrl" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Video" positionX="-63" positionY="-18" width="128" height="300"/>
+    </elements>
+</model>
